@@ -1,11 +1,10 @@
 # Atualizaçãoes:
 
-### Versão 1:
+### Python basico:
 
-- Python basico: Manipulando arquivos
-- Python basico: try e except
-- Requisições web: introdução
+- Resumo para quem ja conhece a linguagem, contem varios metodos uteis.
 
-### Version 1.01:
+### Requisições web:
 
-- Requisições web: mais coisas
+- Resumo dos meus estudos sobre a biblioteca "requests" e "json"
+

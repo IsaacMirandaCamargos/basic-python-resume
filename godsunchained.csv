@@ -1,0 +1,21 @@
+,id,name,effect,god,rarity,tribe,mana,attack,health,type,set,"('price',)","('coin',)","('volume',)"
+0,1018,Black Jaguar,Confused. Regen 1.,nature,common,wild,2,3,3,creature,core,0.000195,ETH,200
+1,945,Blessing of War,"For each War creature in either void, you gain 3 favor and your opponent loses 3 favor.",war,common,,3,0,0,spell,trial,0.0001099999,ETH,200
+2,100920,First Pillar,Frontline. Can't attack.,light,common,structure,4,2,5,creature,trial,0.0,ETH,0
+3,1477,Smith's Hammer,"After you attack with this relic, give +1 armor to each friendly creature.",war,rare,,5,1,2,weapon,order,2.3e-05,ETH,200
+4,87007,Panacean Messenger,Roar: Heal another friendly creature for 1.,neutral,common,aether,2,2,3,creature,welcome,0.0,ETH,0
+5,1479,Echoing Fury,Blessed.<br>Give twin strike to one of your creatures.,war,common,,1,0,0,spell,order,9e-06,ETH,200
+6,1243,Tracking Bolt,"Pick one –<br>· Deal 1 damage to each creature, or<br>· Deal 3 damage to a creature.",magic,common,,2,0,0,spell,core,9.174e-05,ETH,200
+7,100056,Rune of Sight,Foresee 2.<br>Draw a card.,neutral,common,,2,0,0,spell,genesis,0.0,ETH,0
+8,1020,Zealous March,"Summon up to six 2/2 Acolytes and give them protected.<br>For each Acolyte not summoned, heal your god for 4.",light,rare,,8,0,0,spell,core,0.00016,ETH,128
+9,1022,Orcish Elite,Blitz. Twin strike.,war,common,,5,3,6,creature,core,0.0001109,ETH,200
+10,1480,Battle Artisan,"Blessed.<br>After this creature attacks, add a random relic to your hand.",war,rare,olympian,3,3,3,creature,order,5.8e-05,ETH,200
+11,1349,Monolith of Storms,"Order 10. After you play a spell, give +2 strength to this creature. Ability: Deal damage to an enemy character equal to this creature's strength, then set this creature's strength to 0.",magic,legendary,structure,5,5,5,creature,order,0.008349,ETH,127
+12,1482,Chieftain of Impulse,"Blitz.<br>After a friendly creature enters the board, give it blitz and +2 strength.",war,rare,viking,7,6,6,creature,order,1.8e-05,ETH,200
+13,1358,Cursed Hoplite,Armor 1.<br>Afterlife: Summon a 1/1 Skeleton with armor 1.,death,rare,olympian,3,3,1,creature,order,2.1e-05,ETH,200
+14,101308,Orfeo’s Distraction,Deal 1 damage to a creature and give it hidden until the end of the next turn.,deception,common,,2,0,0,god power,order,0.0,ETH,0
+15,101309,Neferu’s Sacrifice,Draw a card and take 2 damage.,death,common,,3,0,0,god power,order,0.0,ETH,0
+16,101310,Lysander’s Honor,Give -1 strength to an enemy creature.,light,common,,2,0,0,god power,order,0.0,ETH,0
+17,1139,Trojan Battlemage,Twin strike. Protected.,war,common,,3,3,1,creature,core,6.89e-05,ETH,183
+18,100057,Sterling Spear,Blitz. Flank.,neutral,common,,2,2,3,weapon,genesis,0.0,ETH,0
+19,1171,Double Dealer,Roar: Draw two cards. Two random cards in your opponent's hand are shuffled into their deck.,deception,common,guild,7,2,1,creature,core,5.4e-05,ETH,132

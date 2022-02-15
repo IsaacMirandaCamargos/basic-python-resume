@@ -1,0 +1,5 @@
+- rodar os codigos do cruvinel.
+- aprender selenium
+- Pegar informações site: https://gudecks.com/meta/card-rankings
+- modelagem
+- resultados
